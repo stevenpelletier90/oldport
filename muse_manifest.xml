@@ -1,0 +1,88 @@
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="PelletierStevenPort.com" resolutions="1x" timestamp="1462332813750">
+  <folder name="css">
+    <file name="site_global.css" crc="444454128"/>
+    <file name="master_a-master.css" crc="96777245" ref="index:contact:portfolio:about"/>
+    <file name="index.css" crc="89287275" ref="index"/>
+    <file name="contact.css" crc="3769998976" ref="contact"/>
+    <file name="portfolio.css" crc="24875211" ref="portfolio"/>
+    <file name="about.css" crc="4233944320" ref="about"/>
+  </folder>
+  <folder name="assets">
+    <file name="resume-stevenpelletier.pdf" crc="3778203570" seo="true" mt="1462312672000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:portfolio:about:contact"/>
+    <file name="museutils.js" crc="3790713428" ref="index:portfolio:about:contact"/>
+    <file name="whatinput.js" crc="84559013" ref="index:portfolio:about:contact"/>
+    <file name="webpro.js" crc="329496574" ref="index:portfolio:contact"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="index:portfolio"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="index:portfolio"/>
+    <file name="touchswipe.js" crc="497316881" ref="index:portfolio"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="index:portfolio:about:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index:about"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:portfolio:about:contact"/>
+    <file name="jquery.scrolleffects.js" crc="4219894366" ref="index:portfolio:about:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:portfolio:about:contact"/>
+    <file name="pie.js" crc="3827607177" ref="portfolio"/>
+    <file name="form_check.php" crc="3805695515" ref="contact"/>
+    <file name="form_throttle.php" crc="3802629389" ref="contact"/>
+    <file name="form_process.php" crc="54267062" ref="contact"/>
+    <file name="form-u6565.php" crc="177871223" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="image1.jpg" crc="3834774916" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:portfolio"/>
+    <file name="image2.jpg" crc="4063724319" seo="true" ref="index"/>
+    <file name="untitled-2.jpg" crc="4196033682" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:portfolio"/>
+    <file name="logo.png" crc="3879588711" seo="true" ref="index:portfolio:about:contact"/>
+    <file name="pen_04.jpg" crc="298723064" ref="index"/>
+    <file name="untitled-3.jpg" crc="4277336867" seo="true" ref="index"/>
+    <file name="arrows-mn_arrow_left.png" crc="4126107877" ref="index:portfolio:about:contact"/>
+    <file name="arrows-mn_arrow_left white.png" crc="17866525" ref="index:portfolio:about:contact"/>
+    <file name="u7988.png" crc="4071737159" ref="index:portfolio:about:contact"/>
+    <file name="u7988-r.png" crc="314962348" ref="index:portfolio:about:contact"/>
+    <file name="u6512.png" crc="61380839" ref="index:portfolio:about:contact"/>
+    <file name="u6512-r.png" crc="3763573010" ref="index:portfolio:about:contact"/>
+    <file name="u8002.png" crc="3980754437" ref="index:portfolio:about:contact"/>
+    <file name="u8002-r.png" crc="425826924" ref="index:portfolio:about:contact"/>
+    <file name="index_homepage-crop-u5803.jpg" crc="173683620" ref="portfolio"/>
+    <file name="home-crop-u7093.jpg" crc="3905143749" ref="portfolio"/>
+    <file name="green leaf henna-crop-u7118.jpg" crc="69502030" ref="portfolio"/>
+    <file name="website_home88x80.jpg" crc="273078657" seo="true" ref="portfolio"/>
+    <file name="home80x81.jpg" crc="158949219" seo="true" ref="portfolio"/>
+    <file name="home180x87.jpg" crc="3767422040" seo="true" ref="portfolio"/>
+    <file name="index_homepage-crop-u5809.jpg" crc="4206649833" ref="portfolio"/>
+    <file name="home-crop-u7099.jpg" crc="4103825346" ref="portfolio"/>
+    <file name="green leaf henna-crop-u7124.jpg" crc="4002202882" ref="portfolio"/>
+    <file name="website_home.jpg" crc="178289333" seo="true" ref="portfolio"/>
+    <file name="home.jpg" crc="4262057056" seo="true" ref="portfolio"/>
+    <file name="home1.jpg" crc="3796378669" seo="true" ref="portfolio"/>
+    <file name="pelletiersteven_blocklayout-4.jpg" crc="206777425" seo="true" ref="portfolio"/>
+    <file name="pelletiersteven_sketch-2.jpg" crc="3878133188" seo="true" ref="portfolio"/>
+    <file name="pelletiersteven_badge-12.jpg" crc="4000488674" seo="true" ref="portfolio"/>
+    <file name="pelletierstevenlogo.png" crc="192482202" seo="true" ref="portfolio"/>
+    <file name="pelletierstevenmc_by_xbigboi-d7eu06o.jpg" crc="3827925393" seo="true" ref="portfolio"/>
+    <file name="image1512x479.jpg" crc="3977021726" seo="true" ref="portfolio"/>
+    <file name="image2512x479.jpg" crc="44000182" seo="true" ref="portfolio"/>
+    <file name="untitled-2512x479.jpg" crc="221694690" seo="true" ref="portfolio"/>
+    <file name="pelletiersteven_blocklayout-4-crop-u7567.jpg" crc="4184742494" ref="portfolio"/>
+    <file name="pelletiersteven_badge-12365x300.jpg" crc="16431952" seo="true" ref="portfolio"/>
+    <file name="pelletierstevenlogo338x300.png" crc="330643301" seo="true" ref="portfolio"/>
+    <file name="pelletierstevenmc_by_xbigboi-d7eu06o-crop-u7881.jpg" crc="18561677" ref="portfolio"/>
+    <file name="image1321x300.jpg" crc="495887373" seo="true" ref="portfolio"/>
+    <file name="image2321x300.jpg" crc="637572" seo="true" ref="portfolio"/>
+    <file name="untitled-2321x300.jpg" crc="4294267602" seo="true" ref="portfolio"/>
+    <file name="arrows-mn_arrow_right.png" crc="4062137678" ref="portfolio"/>
+    <file name="arrows-mn_close.png" crc="206776778" ref="portfolio"/>
+    <file name="me.jpg" crc="3802568066" ref="about"/>
+    <file name="u6576-17.png" crc="297613705" ref="contact"/>
+    <file name="u6576-17-r.png" crc="421504848" ref="contact"/>
+    <file name="u6576-17-m.png" crc="421504848" ref="contact"/>
+    <file name="u6576-17-fs.png" crc="297613705" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="3953439902" seo="true" mt="1462332806003" redirect="true"/>
+  <file name="portfolio.html" crc="376550375" seo="true" mt="1462332470084" redirect="true"/>
+  <file name="about.html" crc="206358582" seo="true" mt="1462332470084" redirect="true"/>
+  <file name="contact.html" crc="3979568589" seo="true" mt="1462332470084" redirect="true"/>
+</manifest>
